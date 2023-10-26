@@ -1,2 +1,0 @@
-Halo ini file saya yang akan dipantau oleh git
-x
